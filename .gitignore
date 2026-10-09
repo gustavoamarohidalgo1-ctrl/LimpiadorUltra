@@ -1,0 +1,5 @@
+.build/
+LimpiadorMac.app/
+LimpiadorMac.nueva.app/
+LimpiadorMac.app.vieja/
+.DS_Store
